@@ -1,5 +1,4 @@
 # djj2022_replic
-Our code mods
 The intention is for these files to together reproduce the results we report in our replication report of
 
 Reshaping Adolescents' Gender Attitudes: Evidence from a School-Based Experiment in India
