@@ -1977,6 +1977,7 @@ fmt(%7.3fc %20s  %7.0fc))
 postfoot("\bottomrule" "\end{tabular}" "}"); 
 
 #delimit cr
+log close 
 
 
 /*
@@ -2024,7 +2025,6 @@ di `stat'
 local stat: di %7.4fc `stat'
 cap file write paperstat "4.3Medium-run results pg19, EL2 % increase in likelihood of signing petition given effect size of self-reported attitudes, `stat'%   " _n 
 
-log close 
 */
 
 /*
